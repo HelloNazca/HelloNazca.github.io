@@ -30,8 +30,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-subtitle: Your awesome subtitle
+title: Nazca
+subtitle: 个人博客，仅供交流学习使用
 description: >- # this means to ignore newlines until "baseurl:"
   你的时间有限，不要浪费于重复别人的生活。不要让别人的观点淹没了你内心的声音。
 author: Nazca
