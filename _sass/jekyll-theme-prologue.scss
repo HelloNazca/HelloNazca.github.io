@@ -63,7 +63,7 @@
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
-		font-weight: 300;
+		font-weight: 200;
 		line-height: 1.75em;
 		color: #888;
 
@@ -233,7 +233,6 @@
 			margin-left: 1.25em;
 		}
 	}
-
 /* Image */
 
 	.image {
@@ -497,7 +496,7 @@
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 375px;
+		width: 275px;
 
 		.top {
 			@include vendor('flex-grow', '1');
@@ -583,7 +582,7 @@
 						position: relative;
 						display: block;
 						font-size: 0.8em;
-
+						text-align: center;
 						&::before {
 							position: absolute;
 							left: 0;
@@ -611,7 +610,7 @@
 /* Footer */
 
 	#footer {
-		margin-left: 375px;
+		margin-left: 275px;
 		text-align: center;
 		background-color: #dce3e2;
 		padding: 3em 0 4em 0;
@@ -641,7 +640,7 @@
 /* Main */
 
 	#main {
-		margin-left: 375px;
+		margin-left: 275px;
 		> section {
 			text-align: center;
 		}
@@ -809,7 +808,7 @@
 		/* Header */
 
 			#header {
-				width: 20%;
+				width: 15%;
 			}
 
 			#logo {
